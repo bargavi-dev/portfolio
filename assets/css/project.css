@@ -1,0 +1,11 @@
+.project-img {
+    align-items: center;
+    width: 40%;
+}
+
+#featured-project {
+    /* padding-left: 100px; */
+    position: relative;
+    padding-left: 50%;
+    width: 50%;
+}
